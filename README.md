@@ -1,4 +1,5 @@
-[20220405] : A modified copy of SORT so SORT give also the initial class when tracking
+[20220405] : A modified copy of SORT so SORT give also the initial class when tracking follling 
+https://github.com/abewley/sort/issues/73
 
 SORT
 =====
